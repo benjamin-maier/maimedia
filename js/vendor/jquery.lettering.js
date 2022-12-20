@@ -1,6 +1,6 @@
 /*global jQuery */
 /*!
-* Lettering.JS 0.7.0
+* Lettering.js 0.7.0
 *
 * Copyright 2010, Dave Rupert http://daverupert.com
 * Released under the WTFPL license
